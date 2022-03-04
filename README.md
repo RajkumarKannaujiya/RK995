@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajkumar Kannaujiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://ik.imagekit.io/vokfeyj7ml7/f_T-fCNMT0GKw4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646397352093">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rk995&label=Profile%20views&color=0e75b6&style=flat" alt="rk995" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk995" alt="rk995" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajkumar43211" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumar43211?logo=twitter&style=for-the-badge" alt="rajkumar43211" /></a> </p>
 
@@ -22,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk995&show_icons=true&locale=en&layout=compact" alt="rk995" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rk995&show_icons=true&locale=en" alt="rk995" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rk995&" alt="rk995" /></p>
