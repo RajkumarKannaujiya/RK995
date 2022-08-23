@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajkumar Kannaujiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a self-motivated Full-stack Web developer 🤓 who loves to work in a challenging environment ✨. I love to face new problems and come up with a solution from out of the box 💥.</h3>
 <img src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rk995&label=Profile%20views&color=0e75b6&style=flat" alt="rk995" /> </p>
 
