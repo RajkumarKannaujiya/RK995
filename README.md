@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajkumar Kannaujiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://ik.imagekit.io/vokfeyj7ml7/f_T-fCNMT0GKw4.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646397352093">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rk995&label=Profile%20views&color=0e75b6&style=flat" alt="rk995" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk995" alt="rk995" /></a> </p>
