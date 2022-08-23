@@ -1,19 +1,27 @@
+<img src="https://github.com/RK995/images/blob/main/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966.gif?raw=true">
 <h1 align="center">Hi 👋, I'm Rajkumar Kannaujiya</h1>
+
 <h3 align="center">I am a self-motivated Full-stack Web developer 🤓 who loves to work in a challenging environment ✨. I love to face new problems and come up with a solution from out of the box 💥.</h3>
-<img src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
+<img align="right" alt="Coding" width="400" src="https://github.com/RK995/images/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966.gif?raw=true">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rk995&label=Profile%20views&color=0e75b6&style=flat" alt="rk995" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk995" alt="rk995" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajkumar43211" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumar43211?logo=twitter&style=for-the-badge" alt="rajkumar43211" /></a> </p>
 
-- 🔭 I’m currently working on **E- commerce website**
+- 🔭 I’m currently working on **E- commerce website** 
+
 
 - 📫 How to reach me **rajkumarkannaujiya89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajkumar43211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajkumar43211" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/rajkumar-kannaujiya-ba14761a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumar-kannaujiya-ba14761a0" height="30" width="40" /></a>
 </p>
 
